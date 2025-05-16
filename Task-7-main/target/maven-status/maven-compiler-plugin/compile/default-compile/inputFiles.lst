@@ -1,0 +1,15 @@
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/model/Role.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/service/RoleServiceImpl.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/repository/RoleRepository.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/configs/SuccessUserHandler.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/service/RoleService.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/controller/AdminController.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/service/UserServiceImpl.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/controller/UserController.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/configs/MvcConfig.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/SpringBootSecurityDemoApplication.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/configs/WebSecurityConfig.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/service/UserService.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/service/UserDetailsServiceImpl.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/repository/UserRepository.java
+/Users/ira_kotik/Desktop/Task-7-main/src/main/java/ru/itmentor/spring/boot_security/demo/model/User.java

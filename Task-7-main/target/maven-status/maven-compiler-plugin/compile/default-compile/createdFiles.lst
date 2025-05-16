@@ -1,0 +1,16 @@
+ru/itmentor/spring/boot_security/demo/model/Role.class
+ru/itmentor/spring/boot_security/demo/controller/AdminController.class
+ru/itmentor/spring/boot_security/demo/configs/WebSecurityConfig.class
+ru/itmentor/spring/boot_security/demo/model/User.class
+ru/itmentor/spring/boot_security/demo/controller/AdminController$GlobalExceptionHandler.class
+ru/itmentor/spring/boot_security/demo/service/UserDetailsServiceImpl.class
+ru/itmentor/spring/boot_security/demo/service/RoleServiceImpl.class
+ru/itmentor/spring/boot_security/demo/controller/UserController.class
+ru/itmentor/spring/boot_security/demo/repository/UserRepository.class
+ru/itmentor/spring/boot_security/demo/repository/RoleRepository.class
+ru/itmentor/spring/boot_security/demo/service/UserService.class
+ru/itmentor/spring/boot_security/demo/service/RoleService.class
+ru/itmentor/spring/boot_security/demo/service/UserServiceImpl.class
+ru/itmentor/spring/boot_security/demo/configs/MvcConfig.class
+ru/itmentor/spring/boot_security/demo/SpringBootSecurityDemoApplication.class
+ru/itmentor/spring/boot_security/demo/configs/SuccessUserHandler.class
